@@ -30,16 +30,24 @@ Using SQL-driven analysis, the project transforms raw transactional data into ac
 - Verified date range and category distribution
 
 2. Sales Analysis
+   
 💰 Total Sales by Gender
+
 - Compared revenue contribution across customer segments
 - Identified dominant purchasing group
+  
 🛍️ Sales by Product Category
+
 - Evaluated category-wise revenue performance
 - Highlighted top-performing product segments
+  
 📅 Sales Trend Analysis
+
 - Analyzed top sales days
 - Identified peak transaction periods
+  
 👥 Sales by Age Group
+
 - Examined spending behavior across age demographics
 - Derived insights on high-value customer segments
 
